@@ -93,7 +93,6 @@ const MainPage: FC = (): JSX.Element => {
             <div className="flex flex-col h-full w-auto gap-1 mx-auto">
               <p className="text-lg font-semibold">Reach us at</p>
               <p className="mt-2">
-              <p>
                 <span>Telephone: </span> +1 (732) 421-4042
               </p>
               <p>
