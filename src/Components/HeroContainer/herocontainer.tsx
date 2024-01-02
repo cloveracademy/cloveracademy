@@ -10,7 +10,10 @@ const HeroContainer: FC = (): JSX.Element => {
           Empower minds, inspire futures
         </h1>
         <small className="text-lg text-left">
-          – your education, reimagined
+          – your education, reimagined </br>
+
+          <p>As President Kennedy said, “Change is the law of life. And those who look only to the past or present are certain to miss the future.”
+Neither the aspiring ambitious youngsters nor their anxious parents want to miss the opportunity of a golden future. Yet to adapt and strive well in today's remarkably changing educational system is highly challenging and intimidating. </p><p>At Clover academy our experienced faculty try not only to bridge the gap between individual abilities and academic curriculum; one of our major goal is to prepare the young budding minds to meet upcoming challenges and sudden changes that may cross their academic path. Our comprehensive curriculum encompasses US common core, O level and Singapore A level syllabus including preparedness towards  mathematics, and science olympiad.  We emphasize strongly on one to one interaction between students and teacher. Our aim is to prepare our students towards academic excellence and college readiness with intellectual and emotional support.</p>
         </small>
         <img src={SmartClass} alt="smartclass" className="rounded pt-8" />
         <Divider
