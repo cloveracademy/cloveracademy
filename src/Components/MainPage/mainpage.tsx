@@ -93,11 +93,6 @@ const MainPage: FC = (): JSX.Element => {
             <div className="flex flex-col h-full w-auto gap-1 mx-auto">
               <p className="text-lg font-semibold">Reach us at</p>
               <p className="mt-2">
-                <span>Zip Code: </span> 08536
-              </p>
-              <p>
-                <span>Country: </span> USA
-              </p>
               <p>
                 <span>Telephone: </span> +1 (732) 421-4042
               </p>
@@ -107,17 +102,17 @@ const MainPage: FC = (): JSX.Element => {
             </div>
             <div className="flex flex-col h-full w-auto gap-1 mx-auto">
               <p className="text-lg font-semibold">Office Address</p>
-              <p className="mt-2">317 Cleveland Avenue,</p>
-              <p>Highland Park,</p>
-              <p>NJ - 08904</p>
+              <p className="mt-2">119/83 Tennyson Dr,</p>
+              <p>Plainsboro,</p>
+              <p>NJ - 08536</p>
             </div>
             <div className="flex flex-col h-full w-auto gap-1 mx-auto">
               <p className="text-lg font-semibold">Email Us</p>
-              <p className="text-lg text-blue-500">info@polytera.com</p>
+              <p className="text-lg text-blue-500">cloveracademyllc@gmail.com</p>
             </div>
           </div>
           <p className="text-lg font-semibold">
-            &copy; 2009-2011 PolyTera · All Rights Reserved
+            &copy; 2017-2025 Clover Academy · All Rights Reserved
           </p>
         </div>
       </div>
