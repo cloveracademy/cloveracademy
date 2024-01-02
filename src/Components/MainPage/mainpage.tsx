@@ -93,10 +93,10 @@ const MainPage: FC = (): JSX.Element => {
             <div className="flex flex-col h-full w-auto gap-1 mx-auto">
               <p className="text-lg font-semibold">Reach us at</p>
               <p className="mt-2">
-                <span>Country: </span> USA
+                <span>Zip Code: </span> 08536
               </p>
               <p>
-                <span>Telephone: </span> +1 (732) 421-4042
+                <span>Country: </span> USA
               </p>
               <p>
                 <span>Telephone: </span> +1 (267) 886-4559
