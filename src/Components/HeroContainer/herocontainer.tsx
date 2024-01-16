@@ -40,9 +40,8 @@ const HeroContainer: FC = (): JSX.Element => {
             </Alert>
             <Alert variant="light" color="blue" className="w-2/5 grow h-full">
               <p className="text-lg">
-                <span className="text-2xl font-semibold">We</span> architect,
-                build and deploy solutions that is unique to each customer based
-                on their requirements.
+                <span className="text-2xl font-semibold">Fuel</span> your dreams with knowledge, 
+                let passion be your compass, and navigate the exciting terrain of middle and high school with courage and conviction
               </p>
             </Alert>
           </div>
