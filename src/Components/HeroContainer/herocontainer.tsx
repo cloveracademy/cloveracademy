@@ -23,16 +23,19 @@ const HeroContainer: FC = (): JSX.Element => {
           <div className="flex flex-row w-full h-full items-start justify-center gap-4">
             <Alert variant="light" color="blue" className="w-2/5">
               <p className="text-lg">
-                <span className="text-2xl font-semibold">We</span> provide
-                after-school and weekend school enrichment programs for talented
-                students from grades IV - VII.
+                <span className="text-2xl font-semibold">Unlock</span> your potential, 
+                embrace the journey, and let's turn challenges into victories together on this academic adventure!.
+                Empower your mind, ignite your curiosity, and let your brilliance shine through every lesson, every test, 
+                and every triumph
               </p>
             </Alert>
             <Alert variant="light" color="blue" className="w-2/5">
               <p className="text-lg">
+                Middle and high school are your stepping stones to greatness. Stride confidently, 
+                learn passionately, and leave an imprint of excellence with every step.
                 <span className="text-2xl font-semibold">We</span> provide
                 after-school and weekend school enrichment programs for talented
-                students from grades IV - VII.
+                students from grades VI - XII.
               </p>
             </Alert>
             <Alert variant="light" color="blue" className="w-2/5 grow h-full">
