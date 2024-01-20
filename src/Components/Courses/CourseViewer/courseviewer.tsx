@@ -319,6 +319,82 @@ const CourseViewer: FC = (): JSX.Element => {
         },
       ],
     },
+    {
+      className: "Algebra - I",
+      key: "alg",
+      courseList: [
+        {
+          courseLabel: "Algebra - I - Topics",
+          key: "advscalgMath",
+          programs: [
+            "Solving Linear Equations",
+            "Solving Linear Inequalities",
+            "Graphing Linear Functions",
+            "Writing Linear Functions",
+            "Solving Systems of Linear Equations",
+            "Sequences and Exponential Functions",
+            "Polynomials",
+            "Graphing Quadratic Functions",
+            "Solving Quadratic Equations",
+            "Radical Functions and Equations",
+            "Data Analysis and Displays",
+          ],
+          description: "Algebra - I Topics",
+          info: "",
+        },
+      ],
+    },   
+    {
+      className: "Algebra - II",
+      key: "alg2",
+      courseList: [
+        {
+          courseLabel: "Algebra - II - Topics",
+          key: "advAlg",
+          programs: [
+            "Linear Functions",
+            "Quadratic Functions",
+            "Quadratic Equations and Complex Numbers",
+            "Polynomial Functions",
+            "Radicals and Rational Exponents",
+            "Exponential and Logarithmic Functions",
+            "Rational Functions",
+            "Sequences and Series",
+            "Trigonometric Ratios",
+            "Basic Probability",
+            "Data Analysis and Statistics",
+          ],
+          description: "Algebra - II Topics",
+          info: "",
+        },
+      ],
+    },
+    {
+      className: "Geometry",
+      key: "geo",
+      courseList: [
+        {
+          courseLabel: "Geometry - Topics",
+          key: "geo",
+          programs: [
+            "Essentials of Geometry",
+            "Reasoning and Proof",
+            "Parallel and Perpendicular Lines",
+            "Congruent Triangles",
+            "Relationships within Triangles",
+            "Similarity",
+            "Right Triangles and Trigonometry",
+            "Quadrilaterals",
+            "Properties of Transformations",
+            "Circles",
+            "Measuring Circumference and Area",
+            "Surface Area and Volume of Solids"
+          ],
+          description: "Geometry - Topics",
+          info: "",
+        },
+      ],
+    },             
   ];
 
   const classSelectHandler = (value: string) => {
