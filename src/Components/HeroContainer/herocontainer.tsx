@@ -11,7 +11,7 @@ const HeroContainer: FC = (): JSX.Element => {
         </h1>
         <small className="text-lg text-left">
           – Unlocking Potential, Building Confidence
-        </small>
+        </small>  
         <img src={SmartClass} alt="smartclass" className="rounded pt-8" />
         <Divider
           orientation="horizontal"
@@ -23,7 +23,7 @@ const HeroContainer: FC = (): JSX.Element => {
           <div className="flex flex-row w-full h-full items-start justify-center gap-4">
             <Alert variant="light" color="blue" className="w-2/5">
               <p className="text-lg">
-                <span className="text-2xl font-semibold">As President Kennedy said, “Change is the law of life. 
+                As President Kennedy said, “Change is the law of life. 
                 And those who look only to the past or present are certain to miss the future.” Neither the aspiring 
                 ambitious youngsters nor their anxious parents want to miss the opportunity of a golden future. 
                 Yet to adapt and strive well in today's remarkably changing educational system is highly challenging 
@@ -43,7 +43,7 @@ const HeroContainer: FC = (): JSX.Element => {
             </Alert>
             <Alert variant="light" color="blue" className="w-2/5 grow h-full">
               <p className="text-lg">
-                <span className="text-2xl font-semibold">FIgnite your aspirations with the power of knowledge, 
+                FIgnite your aspirations with the power of knowledge, 
                 let passion guide your journey, and confidently navigate the thrilling landscape of middle and high 
                 school with courage and determination.</p>
             </Alert>
