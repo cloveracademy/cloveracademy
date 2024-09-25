@@ -7,34 +7,34 @@ const Pricing: FC = (): JSX.Element => {
     {
       categories: "Basic Package",
       details: "One Subject (Math / Science / Computer Programming)",
-      rate: "$ 40",
+      rate: "$ 45",
     },
     {
       categories: "Standard Package",
       details: "Two Subjects or with a sibling",
-      rate: "$ 75",
+      rate: "$ 40*",
     },
     {
       categories: "Premium Package",
       details: "All three Subjects or with a sibling",
-      rate: "$ 110",
+      rate: "$ 115",
     },
   ];
   const highSchoolRates = [
     {
       categories: "Basic Package",
       details: "One Subject (Math / Science / Computer Programming)",
-      rate: "$ 50",
+      rate: "$ 55",
     },
     {
       categories: "Standard Package",
       details: "Two Subjects or with a sibling",
-      rate: "$ 90",
+      rate: "$ 50*",
     },
     {
       categories: "Premium Package",
       details: "All three Subjects or with a sibling",
-      rate: "$ 135",
+      rate: "$ 140",
     },
   ];
   const rowsGradeThree = middleSchoolRates.map((element, index: number) => (
