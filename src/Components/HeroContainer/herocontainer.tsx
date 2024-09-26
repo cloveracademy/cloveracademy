@@ -7,10 +7,10 @@ const HeroContainer: FC = (): JSX.Element => {
     <div className="min-h-screen w-full py-12">
       <div className="flex flex-col w-full h-3/5 items-center gap-2">
         <h1 className="text-5xl text-center font-semibold">
-          Empower minds, inspire futures
+        Personalized Learning for Exceptional Results
         </h1>
         <small className="text-lg text-left">
-          – your education, reimagined
+          – Unlocking Potential, Building Confidence
         </small>
         <img src={SmartClass} alt="smartclass" className="rounded pt-8" />
         <Divider
