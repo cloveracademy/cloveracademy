@@ -42,8 +42,8 @@ const HeroContainer: FC = (): JSX.Element => {
               </p>
             </Alert>
             <Alert variant="light" color="blue" className="w-2/5 grow h-full">
-              <p className="text-lg">
-                FIgnite your aspirations with the power of knowledge, 
+              <p className="text-lg"><span className="text-2xl font-semibold">Ignite</span>
+                your aspirations with the power of knowledge, 
                 let passion guide your journey, and confidently navigate the thrilling landscape of middle and high 
                 school with courage and determination.</p>
             </Alert>
