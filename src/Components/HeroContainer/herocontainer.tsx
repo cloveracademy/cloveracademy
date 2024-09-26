@@ -22,8 +22,7 @@ const HeroContainer: FC = (): JSX.Element => {
         <div className="h-full w-full mt-8">
           <div className="flex flex-row w-full h-full items-start justify-center gap-4">
             <Alert variant="light" color="blue" className="w-2/5">
-              <p className="text-lg">
-                <span className="text-2xl font-semibold">As President Kennedy</span> said, “Change is the law of life. 
+              <p className="text-lg"><span className="text-2xl font-semibold">As President Kennedy</span> said, “Change is the law of life. 
                 And those who look only to the past or present are certain to miss the future.” Neither the aspiring 
                 ambitious youngsters nor their anxious parents want to miss the opportunity of a golden future. 
                 Yet to adapt and strive well in today's remarkably changing educational system is highly challenging 
@@ -42,8 +41,7 @@ const HeroContainer: FC = (): JSX.Element => {
               </p>
             </Alert>
             <Alert variant="light" color="blue" className="w-2/5 grow h-full">
-              <p className="text-lg">
-                <span className="text-2xl font-semibold">Ignite</span> your aspirations with the power of knowledge, 
+              <p className="text-lg"><span className="text-2xl font-semibold">Ignite</span> your aspirations with the power of knowledge, 
                 let passion guide your journey, and confidently navigate the thrilling landscape of middle and high 
                 school with courage and determination.
               </p>
